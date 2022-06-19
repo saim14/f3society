@@ -1,6 +1,6 @@
 <?php
 
 //SITE GLOBAL CONFIGURATION
-$email = "f3society@outlook.com";   //<-- Your email
+$email = "f3societybi@gmail.com";   //<-- Your email
 
 ?>
